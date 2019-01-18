@@ -4,7 +4,7 @@
 ## Overview
 
 
-The Datbase has the following tables:
+The Database has the following tables:
 ```
 +--------------------+
 | Tables_in_kopano   |
